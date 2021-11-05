@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: MultipleRefImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5029633607991458307
+  m_GuidHigh: 9175683855166574512
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5061190756311094085
+      m_GuidHigh: 16904802919508145294
+    m_SerializedTextureGuid:
+      m_GuidLow: 12841035574149103198
+      m_GuidHigh: 8808147183911952138
+    m_Size: {x: 0.1, y: 0.03804348}
+    m_SpecifySize: 1
+    m_Name: Komotini_LogoMuseum
+    m_Texture: {fileID: 2800000, guid: e94fbe5e85d1b2340adf6d3a32d33c7a, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5129132107539107118
+      m_GuidHigh: 1299536428817171602
+    m_SerializedTextureGuid:
+      m_GuidLow: 9170592082536529692
+      m_GuidHigh: 6214298141116893914
+    m_Size: {x: 0.1, y: 0.059277344}
+    m_SpecifySize: 1
+    m_Name: Komotini_Map
+    m_Texture: {fileID: 2800000, guid: 43997f1c7ce97f44da8aa40d3c9f3d56, type: 3}
